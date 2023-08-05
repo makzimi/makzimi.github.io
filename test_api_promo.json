@@ -3,7 +3,7 @@
     "id": "0",
     "name": "promo1",
     "image": "https://makzimi.github.io/img/promo_fitness.jpg",
-    "price": 0.0,
+    "discount": 0.0,
     "type": "product",
     "products": [
       "6",
@@ -13,16 +13,17 @@
   },
   {
     "id": "1",
-    "name": "product2",
+    "name": "promo2",
     "image": "https://makzimi.github.io/img/promo_2.jpg",
-    "price": 2.0,
+    "discount": 2.0,
     "type": "price"
   },
   {
     "id": "2",
-    "name": "product3",
+    "name": "promo3",
     "image": "https://makzimi.github.io/img/promo_choko.jpg",
-    "price": 2.0,
+    "discount": 2.0,
+    "type": "product",
     "products": [
       "2",
       "4",
@@ -31,9 +32,9 @@
   },
   {
     "id": "3",
-    "name": "product4",
+    "name": "promo4",
     "image": "https://makzimi.github.io/img/promo_company.jpg",
-    "price": 2.0,
+    "discount": 2.0,
     "type": "price"
   }
 ]
