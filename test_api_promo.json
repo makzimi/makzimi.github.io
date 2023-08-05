@@ -1,9 +1,10 @@
 [
   {
     "id": "0",
-    "name": "promo1",
+    "name": "Фитнес неделя",
     "image": "https://makzimi.github.io/img/promo_fitness.jpg",
-    "discount": 0.0,
+    "discount": 10.0,
+    "description": "Мы заботимся о вашем здоровье, поэтому товары с фокусом на здоровое питания идут со скидкой!",
     "type": "product",
     "products": [
       "6",
@@ -13,16 +14,18 @@
   },
   {
     "id": "1",
-    "name": "promo2",
+    "name": "Купи 2 - получишь скидку",
     "image": "https://makzimi.github.io/img/promo_2.jpg",
-    "discount": 2.0,
+    "discount": 5.0,
+    "description": "Если купишь сразу 2 товара, то получишь приятную скидку!",
     "type": "price"
   },
   {
     "id": "2",
-    "name": "promo3",
+    "name": "Слодкоежка",
     "image": "https://makzimi.github.io/img/promo_choko.jpg",
-    "discount": 2.0,
+    "discount": 7.0,
+    "description": "Скидка для любителей шоколада. Порадуйте себя и своих детей шоколадными тортами и печеньями со скидкой! Покупай шоколадные товары и получи скидку 7%!",
     "type": "product",
     "products": [
       "2",
@@ -32,9 +35,10 @@
   },
   {
     "id": "3",
-    "name": "promo4",
+    "name": "В компании всегда дешевле",
     "image": "https://makzimi.github.io/img/promo_company.jpg",
-    "discount": 2.0,
+    "discount": 15.0,
+    "description": "Закажи на сумму более 3000 рублей и получи скидку 15%!",
     "type": "price"
   }
 ]

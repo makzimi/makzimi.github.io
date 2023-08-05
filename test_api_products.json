@@ -1,56 +1,56 @@
 [
   {
     "id": "0",
-    "name": "product1",
+    "name": "Парсики с орехами",
     "image": "https://makzimi.github.io/img/product01.jpg",
-    "price": 0.0
+    "price": 320.0
   },
   {
     "id": "1",
-    "name": "product2",
+    "name": "Блинчики с черникой",
     "image": "https://makzimi.github.io/img/product02.jpg",
-    "price": 2.0
+    "price": 280.0
   },
   {
     "id": "2",
-    "name": "product3",
+    "name": "Вафли с шоколадом",
     "image": "https://makzimi.github.io/img/product03.jpg",
-    "price": 2.0
+    "price": 250.0
   },
   {
     "id": "3",
-    "name": "product4",
+    "name": "Фруктовый мус",
     "image": "https://makzimi.github.io/img/product04.jpg",
-    "price": 2.0
+    "price": 380.0
   },
   {
     "id": "4",
-    "name": "product5",
+    "name": "Печенье Oreo-Android",
     "image": "https://makzimi.github.io/img/product05.jpg",
-    "price": 2.0
+    "price": 90.0
   },
   {
     "id": "5",
-    "name": "product6",
+    "name": "Торт Шоколадный день",
     "image": "https://makzimi.github.io/img/product06.jpg",
-    "price": 2.0
+    "price": 180.0
   },
   {
     "id": "6",
-    "name": "product7",
+    "name": "Фитнес боул",
     "image": "https://makzimi.github.io/img/product07.jpg",
-    "price": 2.0
+    "price": 390.0
   },
   {
     "id": "7",
-    "name": "product8",
+    "name": "Брускетта с авокадо",
     "image": "https://makzimi.github.io/img/product08.jpg",
-    "price": 2.0
+    "price": 290.0
   },
   {
     "id": "8",
-    "name": "product9",
+    "name": "Брускетта со свеклой",
     "image": "https://makzimi.github.io/img/product09.jpg",
-    "price": 2.0
+    "price": 310.0
   }
 ]
